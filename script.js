@@ -61,4 +61,6 @@ function(){
 
 let ul = 
 document.createElement('ul');
-document.body.append
+document.body.append(ul);
+
+list
