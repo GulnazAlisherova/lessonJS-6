@@ -76,4 +76,5 @@ function addItem(text){
     li.style.textDecoration = 'line-through';
   })
   li.addEventListener('dblclick', 
+  function
 }
