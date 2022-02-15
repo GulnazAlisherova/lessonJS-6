@@ -43,5 +43,5 @@
 // };
 
 let list = [
-  'Apple',
+  'Apple', 'Banana',
 ]
