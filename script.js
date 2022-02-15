@@ -54,4 +54,6 @@ button.textContent = "Add";
 document.body.append(button);
 
 button.addEventListener('click',
-function()
+function(){
+  addItem
+}
