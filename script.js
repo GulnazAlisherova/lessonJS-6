@@ -63,4 +63,4 @@ let ul =
 document.createElement('ul');
 document.body.append(ul);
 
-list
+list.forEach
