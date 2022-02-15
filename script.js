@@ -72,4 +72,5 @@ function addItem(text){
   ul.append(li);
 
   li.addEventListener('click',
+  function
 }
