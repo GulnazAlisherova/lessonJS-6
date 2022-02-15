@@ -65,4 +65,6 @@ document.body.append(ul);
 
 list.forEach(addItem)
 
-function addItem(text)
+function addItem(text){
+  let li
+}
