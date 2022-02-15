@@ -55,5 +55,5 @@ document.body.append(button);
 
 button.addEventListener('click',
 function(){
-  addItem(input.
+  addItem(input.value);
 }
