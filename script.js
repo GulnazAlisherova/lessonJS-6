@@ -4,13 +4,13 @@
 // });
 // document.querySelector('a').addEventListener('contextmenu', function(event){
 //   event.preventDefault();
-//   this.style.background = "red";
+//   this.style.background = "red"; ///fszeth
 // });
 // document.querySelector('a').addEventListener('dblclick', function(event){
 //   event.preventDefault();  
 //   this.remove();
 // })
-//z
+
 
 // document.addEventListener('click', function(event) {
 //   let div = document.createElement('div');
