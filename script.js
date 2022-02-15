@@ -71,5 +71,5 @@ function addItem(text){
   li.textContent = text;
   ul.append(li);
 
-  li.a
+  li.addEventListener
 }
