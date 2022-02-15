@@ -51,4 +51,4 @@ document.body.append(input);
 let button = 
 document.createElement('button');
 button.textContent = "Add";
-document
+document.body
