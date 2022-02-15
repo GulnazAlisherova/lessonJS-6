@@ -66,5 +66,5 @@ document.body.append(ul);
 list.forEach(addItem)
 
 function addItem(text){
-  let li
+  let li //
 }
