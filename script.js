@@ -77,6 +77,6 @@ function addItem(text){
   })
   li.addEventListener('dblclick', 
   function(){
-    li.remove
-  }
+    li.remove();
+  })
 }
