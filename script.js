@@ -47,3 +47,4 @@ let list = [
 ];
 let input =  
 document.createElement('input');
+document.
