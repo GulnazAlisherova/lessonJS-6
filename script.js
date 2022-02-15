@@ -45,5 +45,5 @@
 let list = [
   'Apple', 'Banana', 'Cherry'
 ];
-let input = 
-document.createElement
+let input =  
+document.createElement('input');
