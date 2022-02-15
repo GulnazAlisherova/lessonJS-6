@@ -41,43 +41,35 @@
 //     this.remove();
 //   });
 // };
-
 let list = [
   'Apple', 'Banana', 'Cherry'
 ];
-let input =  
-document.createElement('input');
+let input = document.createElement('input');
 document.body.append(input);
-let button = 
-document.createElement('button');
+let button = document.createElement('button');
 button.textContent = "Add";
 document.body.append(button);
 
-button.addEventListener('click',
-function(){
+button.addEventListener('click', function() {
   addItem(input.value);
   input.value = '';
-)};
+});
 
-let ul = 
-document.createElement('ul');
+let ul = document.createElement('ul');
 document.body.append(ul);
 
 list.forEach(addItem)
 
-function addItem(text){
-  let li =
-  document.createElement('li');
+function addItem(text) {
+  let li = document.createElement('li');
   li.textContent = text;
   ul.append(li);
-
-  li.addEventListener('click',
-  function(){
+  
+  li.addEventListener('click', function() {
     li.style.textDecoration = 'line-through';
   })
-  li.addEventListener('dblclick', 
-  function(){
+  li.addEventListener('dblclick', function() {
     li.remove();
   })
-}
+} 
 //
