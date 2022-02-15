@@ -10,7 +10,7 @@
 //   event.preventDefault();  
 //   this.remove();
 // })
-
+//z
 
 // document.addEventListener('click', function(event) {
 //   let div = document.createElement('div');
@@ -19,7 +19,7 @@
 //   div.style.borderRadius = '100%';
 //   div.style.backgroundColor = `rgb(${Math.random()*250},${Math.random()*250},${Math.random()*250})`;
 //   div.style.position = 'absolute';
-//   div.style.top =  event.clientY  + 'px' ; //zf
+//   div.style.top =  event.clientY  + 'px' ;
 //   div.style.left =  event.clientX  + 'px' ; 
 //   document.body.append(div);
 // });
