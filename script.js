@@ -70,4 +70,6 @@ function addItem(text){
   document.createElement('li');
   li.textContent = text;
   ul.append(li);
+
+  li.a
 }
