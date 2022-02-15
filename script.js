@@ -61,4 +61,4 @@ function(){
 
 let ul = 
 document.createElement('ul');
-document.body
+document.body.append
