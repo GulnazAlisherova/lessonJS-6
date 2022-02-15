@@ -60,4 +60,4 @@ function(){
 )};
 
 let ul = 
-document.createElement
+document.createElement('ul');
