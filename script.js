@@ -73,6 +73,6 @@ function addItem(text){
 
   li.addEventListener('click',
   function(){
-    li.
+    li.style
   }
 }
