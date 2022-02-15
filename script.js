@@ -46,3 +46,4 @@ let list = [
   'Apple', 'Banana', 'Cherry'
 ];
 let input = 
+document
