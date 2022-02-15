@@ -49,4 +49,5 @@ let input =
 document.createElement('input');
 document.body.append(input);
 let button = 
-document.createElement('input');
+document.createElement('button');
+button
