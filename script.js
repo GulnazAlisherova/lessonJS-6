@@ -69,5 +69,5 @@ function addItem(text){
   let li =
   document.createElement('li');
   li.textContent = text;
-  ul.
+  ul.append
 }
