@@ -47,4 +47,4 @@ let list = [
 ];
 let input =  
 document.createElement('input');
-document.
+document.body
