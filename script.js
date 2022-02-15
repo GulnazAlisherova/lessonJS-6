@@ -52,3 +52,5 @@ let button =
 document.createElement('button');
 button.textContent = "Add";
 document.body.append(button);
+
+button
