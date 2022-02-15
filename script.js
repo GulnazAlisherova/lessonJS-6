@@ -20,7 +20,7 @@
 //   div.style.backgroundColor = `rgb(${Math.random()*250},${Math.random()*250},${Math.random()*250})`;
 //   div.style.position = 'absolute';
 //   div.style.top =  event.clientY  + 'px' ; 
-//   div.style.left =  event.clientX  + 'px' ; 
+//   div.style.left =  event.clientX  + 'px' ; //рвят
 //   document.body.append(div);
 // });
 
