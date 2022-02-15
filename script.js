@@ -45,4 +45,4 @@
 let list = [
   'Apple', 'Banana', 'Cherry'
 ];
-let input
+let input = 
