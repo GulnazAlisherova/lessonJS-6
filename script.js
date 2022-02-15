@@ -65,4 +65,4 @@ document.body.append(ul);
 
 list.forEach(addItem)
 
-function
+function addItem
