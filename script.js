@@ -67,5 +67,5 @@ list.forEach(addItem)
 
 function addItem(text){
   let li =
-  document.
+  document.createElement
 }
